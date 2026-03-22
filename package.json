@@ -5,7 +5,7 @@
   },
   "name": "api-trabalho2",
   "version": "1.0.0",
-  "description": "",
+  "description": "API REST desenvolvida com Node.js, Express e SQLite para gerenciamento de livros. Possui operações CRUD completas (GET, POST, PUT, DELETE), validação de dados e testes no Postman.",
   "main": "index.js",
   "devDependencies": {
     "nodemon": "^3.1.14"
@@ -15,6 +15,6 @@
     "dev": "nodemon index.js" 
   },
   "keywords": [],
-  "author": "",
+  "author": "Yuji",
   "license": "ISC"
 }
